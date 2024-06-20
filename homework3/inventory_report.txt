@@ -1,0 +1,11 @@
+--------------------------------------
+| No. | Category | Name | Price | Quantity |
+--------------------------------------
+| 1 | Laptop | Monster | $340.0 | 2 |
+| 2 | Laptop | Monster 2 | $32.0 | 5 |
+--------------------------------------
+Summary:
+-Total devices: 7
+-Total value: $840.0
+
+End of the report.
